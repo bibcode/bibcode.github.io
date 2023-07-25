@@ -104,3 +104,16 @@ h1{
 li{
     color: #fff;
 }
+@media only screen and (max-width: 600px){
+    .links{
+        display: flex;
+    }
+}
+.links{
+    display: flex;
+}
+
+.links a{
+    margin-right: 10px;
+    margin-left: 10px;
+}
