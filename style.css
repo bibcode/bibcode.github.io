@@ -117,3 +117,18 @@ li{
     margin-right: 10px;
     margin-left: 10px;
 }
+#mentor{
+    justify-content: center;
+    display: inline-table;
+    height: 100px;
+    border-radius: 20px;
+    width: 200px;
+    border: cadetblue ridge 1px;
+}
+#codeswot{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    color: cadetblue;
+    text-decoration: none;
+}
